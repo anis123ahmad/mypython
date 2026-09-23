@@ -1,3 +1,3 @@
 # mypython
 This is my first python repo<br />
-Author - Anis
+Author - Anis (For Python)
